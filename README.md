@@ -25,7 +25,7 @@ I’m currently learning Artificial Intelligence and Machine Learning<br>
 
 ![](https://github-readme-stats.vercel.app/api?username=AdityaAdaki21&theme=dark&hide_border=false&include_all_commits=True&count_private=True)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaAdaki21&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaAdaki21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/?username=AdityaAdaki21&theme=dark&hide_border=false&include_all_commits=True&count_private=True&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AdityaAdaki21&icon=5&color=0)](https://visitcount.itsvg.in)
